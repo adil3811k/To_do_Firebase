@@ -13,5 +13,7 @@ This app use firebase authentication with email and store data in realtime data 
 1. user can singin and login with same email and pass word
 2. user can add tast tital and discrptio
 3. user can delete task from real time data base
+4. user can login out when user press logout button on main Activity
+5. when user login ones he direcly go to main activity
 
 Note:- you can download .aap  or apk on releas part of this repository
